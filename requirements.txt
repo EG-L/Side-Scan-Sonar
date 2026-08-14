@@ -1,0 +1,7 @@
+PySide2
+pyqtgraph
+nptdms
+numpy<2
+matplotlib
+opencv-python==4.9.0.80
+Pillow==9.5.0
